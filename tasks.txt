@@ -1,0 +1,4 @@
+Complete Java assignment|Complete the homework assignment for 310|School|false
+Grocery shopping|Buy vegetables and fruits|Personal|false
+Gym workout|Complete the cardio training|Health|false
+Read a book|Read 'The Great Gatsby'|Leisure|true
